@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Anshmittal86/QR-code-)
-- Live Site URL: [Add live site URL here](https://anshmittal86.github.io/QR-code-/)
+- Solution URL: [Add solution URL here](https://github.com/Anshmittal86/Challenge-QR-CODE)
+- Live Site URL: [Add live site URL here](https://anshmittal86.github.io/Challenge-QR-CODE/)
 
 ### Built with
 
